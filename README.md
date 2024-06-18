@@ -15,13 +15,13 @@ Ela receberá 127V, com uma corrente alternada de 60Hz.
 | 1x              | LED Vermelho            | R$1,26  |
 | 1x              | Transistor BC368 25V 1A | R$0,43  |
 | 1x              | Potenciômetro 1W 5K     | R$6,74  |
-| 1x              | Transformador 12V+12V   | R$13,00 |
+| 1x              | Transformador 9V+9V     | R$00,00 |
 | 1x              | Protoboard              | R$21,05 |
 | TOTAL           |                         | R$52,11 |
 
 - TRANSFORMADOR
 
-   Transforma a tensão de 127V em 24.1 (foram conectados as pontas +12V e -12V do transformador) por meio de indução eletromagnética.
+   Transforma a tensão de 127V em 25.1 (foram conectados as pontas +9V e -9V do transformador, gerando uma tensão média de 18V e de pico de 25.1) por meio de indução eletromagnética.
 
 - PONTE DE DIODO
 
@@ -51,7 +51,15 @@ Ela receberá 127V, com uma corrente alternada de 60Hz.
 
 
 ## Circuito
+### Faltsad: https://tinyurl.com/26b3eawc
+![alt text](./circuito_falstad.png "Circuito no Faltsad")
+### Eagle
 
 ## Vídeo
+https://youtu.be/ODlF76heZ84
 
 ## Alunos
+Alec Campos Aoki - 15436800
+Pedro Augusto Ferraro Paffaro - 
+João Pedro Castelli - 
+Marcelo Conti - 
