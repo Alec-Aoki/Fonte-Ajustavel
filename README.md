@@ -51,15 +51,15 @@ Ela receberá 127V, com uma corrente alternada de 60Hz.
 
 
 ## Circuito
-### Faltsad: https://tinyurl.com/26b3eawc
+#### Faltsad: https://tinyurl.com/26b3eawc
 ![alt text](./circuito_falstad.png "Circuito no Faltsad")
-### Eagle
+#### Eagle
 
 ## Vídeo
 https://youtu.be/ODlF76heZ84
 
 ## Alunos
-Alec Campos Aoki - 15436800
-Pedro Augusto Ferraro Paffaro - 
-João Pedro Castelli - 
-Marcelo Conti - 
+- Alec Campos Aoki - 15436800
+- Pedro Augusto Ferraro Paffaro - 
+- João Pedro Castelli - 
+- Marcelo Conti - 
