@@ -64,6 +64,6 @@ https://youtu.be/ODlF76heZ84
 
 ## Alunos
 - Alec Campos Aoki - 15436800
-- Pedro Augusto Ferraro Paffaro - 
-- João Pedro Castelli - 
-- Marcelo Conti - 
+- Pedro Augusto Ferraro Paffaro - 15483380
+- João Pedro Castelli - 15463450
+- Marcelo Martins Conti - 15474629
