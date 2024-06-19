@@ -52,8 +52,12 @@ Ela receberá 127V, com uma corrente alternada de 60Hz.
 
 ## Circuito
 #### Faltsad: https://tinyurl.com/26b3eawc
-![alt text](./circuito_falstad.png "Circuito no Faltsad")
+![alt text](./Projeto_Fonte/circuito_falstad.png "Circuito no Faltsad")
+![alt text](./Projeto_Fonte/Protoboard_2.png "Foto do Circuito na Protoboard")
+
 #### Eagle
+![alt text](./Projeto_Fonte/eagle_1.jpeg "PCB no Eagle")
+![alt text](./Projeto_Fonte/eagle_3(esquematico).jpeg "Esquemático no Eagle")
 
 ## Vídeo
 https://youtu.be/ODlF76heZ84
