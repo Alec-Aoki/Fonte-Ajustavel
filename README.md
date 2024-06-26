@@ -61,10 +61,14 @@ Ela receberá 127V, com uma corrente alternada de 60Hz.
 ![alt text](./Projeto_Fonte/eagle_3(esquematico).jpeg "Esquemático no Eagle")
 
 ## Cálculos
+![alt text](./Projeto_Fonte/calc_1.png "Cálculos 1")
+![alt text](./Projeto_Fonte/calc_2.png "Cálculos 2")
+![alt text](./Projeto_Fonte/calc_3.png "Cálculos 3")
 
 
 ## Vídeo
-https://youtu.be/ODlF76heZ84
+Projeto Funcionando: https://youtu.be/ODlF76heZ84
+Explicação https://youtu.be/iOAmSghmCJ0
 
 ## Alunos
 - Alec Campos Aoki - 15436800
