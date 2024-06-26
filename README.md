@@ -7,21 +7,22 @@ Ela receberá 127V, com uma corrente alternada de 60Hz.
 | Quantidade      | Componente              | Valor   |
 | --------------- | ----------------------- | ------- |
 | 1x              | Ponte Reitificadora 2A  | R$3,78  |
-| 1x              | Capacacitor 470UFX50V   | R$4,27  |
+| 1x              | Capacacitor 470UF 50V   | R$4,27  |
 | 5x              | Resistor 2K2            | R$0,07  |
 | 5x              | Resistor 4K3            | R$0,07  |
-| 1x              | Resistor 1W 120         | R$0,39  |
+| 5x              | Resistor 1K8            | R$0,07  |
+| 1x              | Resistor 50 1W          | R$0,39  |
 | 1x              | Diodo Zener 13V 1W      | R$0,49  |
 | 1x              | LED Vermelho            | R$1,26  |
 | 1x              | Transistor BC368 25V 1A | R$0,43  |
 | 1x              | Potenciômetro 1W 5K     | R$6,74  |
-| 1x              | Transformador 9V+9V     | R$00,00 |
+| 1x              | Transformador 9V+9V     |   ---   |
 | 1x              | Protoboard              | R$21,05 |
-| TOTAL           |                         | R$52,11 |
+| TOTAL           |                         | R$38,62 |
 
 - TRANSFORMADOR
 
-   Transforma a tensão de 127V em 25.1 (foram conectados as pontas +9V e -9V do transformador, gerando uma tensão média de 18V e de pico de 25.1) por meio de indução eletromagnética.
+   Transforma a tensão de 127V em 25.1V (foram conectados as pontas +9V e -9V do transformador, gerando uma tensão média de 18V e de pico de 25.1V (18x1.4)) por meio de indução eletromagnética.
 
 - PONTE DE DIODO
 
@@ -39,11 +40,11 @@ Ela receberá 127V, com uma corrente alternada de 60Hz.
 
 - TRANSISTOR
 
-    Permite que a tensão no celular seja ajustada pelo potenciômetro.
+    Permite que a tensão no celular seja ajustada pelo potenciômetro. Nosso resistor é capaz de suportar 0.8W de potência. Para não queimá-lo, devemos adicionar um resistor de baixa resistência e alta potência antes dele (nesse caso, o resistor de 50ohms e 1W). Sua resistência deve ser baixa para não transmitir o efeito ripple para o celular.
 
 - PONTECIÔMETRO
 
-    Podemos pensá-lo como uma resistência ajustável. Variando-a, variamos também a tensão que passa pelo celular. Ele pode variá-la de 12V a 0V. O resistor logo em seguida dele limita essa variação de 12V para 3V.
+    Podemos pensá-lo como uma resistência ajustável. Variando-a, variamos também a tensão que passa pelo celular. Ele pode variá-la de 12V a 0V. O resistor logo em seguida dele limita essa variação de 12V para 3V. Nesse caso, nosso circuito vai de 12.34V a 2.26V.
 
 - LED
 
@@ -51,7 +52,7 @@ Ela receberá 127V, com uma corrente alternada de 60Hz.
 
 
 ## Circuito
-#### Faltsad: https://tinyurl.com/22jtxtjm
+#### Faltsad: https://tinyurl.com/ynry4pmj
 ![alt text](./Projeto_Fonte/circuito_falstad.png "Foto do Circuito no Falstad")
 ![alt text](./Projeto_Fonte/Protoboard_2.png "Foto do Circuito na Protoboard")
 
@@ -60,7 +61,6 @@ Ela receberá 127V, com uma corrente alternada de 60Hz.
 ![alt text](./Projeto_Fonte/eagle_3(esquematico).jpeg "Esquemático no Eagle")
 
 ## Cálculos
-![alt text](./Projeto_Fonte/calculos.jpeg "Cálculo dos Componentes")
 
 
 ## Vídeo
