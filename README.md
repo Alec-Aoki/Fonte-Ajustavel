@@ -67,8 +67,8 @@ Ela receberá 127V, com uma corrente alternada de 60Hz.
 
 
 ## Vídeo
-Projeto Funcionando: https://youtu.be/ODlF76heZ84
-Explicação https://youtu.be/iOAmSghmCJ0
+- Projeto Funcionando: https://youtu.be/ODlF76heZ84
+- Explicação https://youtu.be/iOAmSghmCJ0
 
 ## Alunos
 - Alec Campos Aoki - 15436800
